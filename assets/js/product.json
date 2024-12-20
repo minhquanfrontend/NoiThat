@@ -1,0 +1,16 @@
+{
+    "menu":[
+        {
+            "title":"Bàn làm việc",
+            "subMenu":[]
+        },
+        {
+            "title":"Ghế văn phòng",
+            "subMenu":
+            [
+                "Ghế gỗ loại 1",
+                "Ghế mạ vàng"
+            ]
+        }
+    ]
+}
